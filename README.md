@@ -1,3 +1,3 @@
-# backend_test_homework
+# google_colab
 
 Тестовый репозиторий
